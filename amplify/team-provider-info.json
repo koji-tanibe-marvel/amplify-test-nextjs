@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tanibenextjstest-dev-150324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::110840261805:role/amplify-tanibenextjstest-dev-150324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::110840261805:role/amplify-tanibenextjstest-dev-150324-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-tanibenextjstest-dev-150324-deployment",
+      "UnauthRoleName": "amplify-tanibenextjstest-dev-150324-unauthRole",
+      "StackName": "amplify-tanibenextjstest-dev-150324",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:110840261805:stack/amplify-tanibenextjstest-dev-150324/3b8e01c0-d1b9-11ec-bc27-0e4a237e3a97",
+      "AmplifyAppId": "d2xv98xlwqkvn1",
+      "NetworkStackS3Url": "https://s3.amazonaws.com/amplify-tanibenextjstest-dev-150324-deployment/amplify-cfn-templates/networkingStackTemplate.json"
+    },
+    "categories": {
+      "auth": {
+        "tanibenextjstest1e2371ab": {}
+      }
+    }
+  }
+}
